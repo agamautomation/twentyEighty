@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice]">
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="baseurl" value="http://103.231.43.105:8079/QueensLibrary"/>
+  <listeners>
+    <listener class-name="com.queenslibrary.core.ExtentReporterNG"/>
+  </listeners>
+  <test name="Practice(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="baseurl" value="http://103.231.43.105:8079/QueensLibrary"/>
+    <classes>
+      <class name="com.queenslibrary.functional.Homepage">
+        <methods>
+          <include name="InitiateDriver"/>
+          <include name="test"/>
+          <include name="StopDriver"/>
+        </methods>
+      </class> <!-- com.queenslibrary.functional.Homepage -->
+    </classes>
+  </test> <!-- Practice(failed) -->
+</suite> <!-- Failed suite [Practice] -->

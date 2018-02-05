@@ -1,0 +1,260 @@
+2017-11-27 13:16:36,516 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 13:16:36,632 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 13:19:18,129 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 13:19:19,682 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 16:34:07,261 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 16:34:07,328 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 16:35:52,930 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 16:35:53,888 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 17:52:48,701 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 17:52:48,728 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 18:05:32,244 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 18:05:32,256 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 19:49:22,749 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 19:49:23,033 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 19:51:37,886 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 19:51:54,493 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 19:51:54,500 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 19:53:39,516 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 19:53:39,655 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 21:22:52,430 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 21:22:52,454 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 21:24:51,558 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 21:24:51,576 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 21:27:08,660 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 21:27:22,144 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-27 21:27:22,150 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-27 21:29:06,107 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-27 21:29:06,205 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-28 13:04:47,865 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 13:04:47,921 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 13:34:59,164 - Closing the driver -INFO - Driver quit
+2017-11-28 13:35:50,472 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 13:35:50,480 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 13:38:06,078 - Closing the driver -INFO - Driver quit
+2017-11-28 13:43:06,167 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 13:43:06,205 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 13:44:49,923 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-28 13:45:07,913 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 13:45:07,921 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 13:47:03,650 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-28 13:47:03,764 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-28 20:40:40,736 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 20:40:40,834 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 20:43:23,832 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-28 20:43:33,377 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2017-11-28 20:43:33,378 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2017-11-28 20:43:34,394 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 20:45:29,119 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-28 20:45:29,141 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-28 20:47:48,255 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 15:56:24,524 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-29 15:56:24,623 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-29 15:58:35,891 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 15:58:53,013 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-29 15:58:53,024 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-29 16:00:31,263 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 16:00:31,464 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 17:57:14,657 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-29 17:57:14,814 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-29 17:58:54,838 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 17:59:14,030 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-29 17:59:14,039 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-29 21:10:00,240 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-29 21:10:00,326 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-29 21:15:15,804 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-29 21:15:17,492 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-30 17:06:54,138 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-30 17:06:54,390 - ResellerResgistrationTest -INFO - Starting Test Case Run
+2017-11-30 17:07:52,876 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-30 17:07:54,680 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-30 21:07:38,464 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-11-30 21:07:38,582 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-11-30 21:10:09,495 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-11-30 21:10:10,580 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 15:51:01,653 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-06 15:51:01,743 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-06 15:52:42,564 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 15:52:43,854 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 19:05:24,246 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-06 19:05:24,337 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-06 19:07:00,458 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 19:07:01,537 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 19:12:25,019 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-06 19:12:25,050 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-06 19:13:56,375 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-06 19:13:57,325 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-18 13:11:42,993 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-18 13:11:43,086 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-18 13:12:45,025 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-18 13:12:46,030 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-18 13:17:34,877 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-18 13:17:34,901 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-18 13:18:36,748 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-18 13:18:37,495 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-19 13:15:10,949 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-19 13:15:11,162 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-19 13:17:51,596 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-19 13:17:52,382 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-20 13:24:09,796 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-20 13:24:10,012 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-20 13:25:55,052 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-20 13:25:55,876 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-22 13:15:15,867 - Initialize the driver -INFO - firefox browser iniialized and and open
+2017-12-22 13:15:15,980 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2017-12-22 13:16:18,623 - Closing the driver -INFO - Getting Exception while closing the driver
+2017-12-22 13:16:19,499 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-03 13:17:09,112 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-03 13:17:09,164 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-03 13:23:24,337 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-03 13:23:25,766 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-04 13:22:58,065 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-04 13:22:58,128 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-04 13:23:48,251 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-04 13:23:49,299 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-05 13:14:59,466 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-05 13:14:59,543 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-05 13:16:02,169 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-05 13:16:03,023 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-08 13:12:47,894 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-08 13:12:47,958 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-08 13:13:49,974 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-08 13:13:50,775 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-08 13:16:54,582 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-08 13:16:54,595 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-08 13:17:56,367 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-08 13:17:57,103 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 13:17:46,022 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 13:17:46,083 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 13:19:47,369 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 13:19:48,633 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 13:44:44,012 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 13:44:44,097 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 13:46:08,463 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 13:46:09,933 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 14:13:33,787 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 14:13:33,928 - ResellerResgistrationTest -INFO - Starting Test Case Run
+2018-01-09 14:15:13,253 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 14:15:16,726 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 14:38:07,545 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 14:38:07,564 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 14:43:49,935 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 14:43:50,781 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 16:29:01,002 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 16:29:01,109 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 16:36:16,476 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 16:36:16,505 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 16:37:42,205 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 16:37:43,463 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 16:47:33,752 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-09 16:47:33,780 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-09 16:48:57,166 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-09 16:48:57,793 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-10 13:17:49,818 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-10 13:17:49,907 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-10 13:19:20,843 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-10 13:19:22,090 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-11 13:09:01,945 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-11 13:09:02,000 - MyESIRegistrationTest -INFO - Starting Test Case Run
+2018-01-11 18:02:41,601 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-11 18:02:41,717 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-11 18:04:51,389 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-11 18:04:52,449 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-11 18:08:55,746 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-11 18:08:55,771 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-11 18:10:37,782 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-11 18:10:39,134 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-12 12:53:23,944 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-12 12:53:23,980 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-12 12:55:56,737 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-12 12:55:57,500 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:16:04,919 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 13:16:05,173 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 13:18:04,455 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:18:05,606 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:32:46,579 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 13:32:46,612 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 13:34:22,087 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:34:22,940 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:39:00,446 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 13:39:00,473 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 13:40:48,034 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 13:40:48,905 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 15:39:20,795 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 15:39:21,056 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 15:41:07,549 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 15:41:11,625 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 15:57:37,762 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 15:57:37,993 - ResellerResgistrationTest -INFO - Starting Test Case Run
+2018-01-25 15:58:18,833 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 15:58:22,255 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 16:26:47,972 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 16:26:48,068 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 16:32:07,694 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 16:32:07,717 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 16:34:38,992 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 16:34:40,106 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 20:54:27,790 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 20:54:27,885 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 20:58:11,183 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 20:58:12,350 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 20:59:08,481 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-25 20:59:08,524 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-25 21:02:33,480 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-25 21:02:34,750 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-29 15:03:13,527 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-29 15:03:13,757 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-29 15:05:21,106 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-29 15:05:22,478 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-30 14:40:29,147 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-30 14:40:29,314 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-30 14:42:43,420 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-30 14:42:45,467 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:24:53,562 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 14:24:53,690 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-31 14:26:48,967 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:26:50,170 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:36:19,508 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 14:36:19,547 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-31 14:38:21,154 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:38:21,932 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:41:11,307 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 14:41:11,343 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-31 14:42:51,178 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:42:51,996 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:53:58,221 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 14:53:58,248 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-31 14:55:45,460 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 14:55:46,194 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 15:02:35,455 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 15:02:35,486 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-01-31 15:04:49,640 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 15:04:50,666 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 17:08:34,546 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-01-31 17:08:35,439 - ResellerResgistrationTest -INFO - Starting Test Case Run
+2018-01-31 17:09:13,781 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-01-31 17:09:15,149 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-01 13:35:05,405 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-01 13:35:05,531 - ResellerResgistrationTest -INFO - Starting Test Case Run
+2018-02-01 13:35:55,816 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-01 13:35:57,088 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:26:05,226 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-02 14:26:05,396 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-02-02 14:27:08,719 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:27:09,799 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:27:35,970 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-02 14:27:35,992 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-02-02 14:29:37,901 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:29:38,740 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:31:55,065 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-02 14:31:55,093 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-02-02 14:33:38,045 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:33:38,709 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:38:54,951 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-02 14:38:54,975 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-02-02 14:40:48,077 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 14:40:48,768 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 17:42:37,104 - Initialize the driver -INFO - firefox browser iniialized and and open
+2018-02-02 17:42:37,334 - PublicWebsiteRegistrationTest -INFO - Starting Test Case Run
+2018-02-02 17:44:36,406 - Closing the driver -INFO - Getting Exception while closing the driver
+2018-02-02 17:44:38,551 - Closing the driver -INFO - Getting Exception while closing the driver

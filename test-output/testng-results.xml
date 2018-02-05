@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Twenty Eighty Project" duration-ms="146100" started-at="2018-02-02T12:12:12Z" finished-at="2018-02-02T12:14:38Z">
+    <groups>
+    </groups>
+    <test name="PublicWebSite" duration-ms="146100" started-at="2018-02-02T12:12:12Z" finished-at="2018-02-02T12:14:38Z">
+      <class name="com.twentyeighty.functional.PublicWebsiteRegistrationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="beforeSuite" is-config="true" duration-ms="1085" started-at="2018-02-02T17:42:11Z" finished-at="2018-02-02T17:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="InitiateDriver(java.lang.String)[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="InitiateDriver" is-config="true" duration-ms="24716" started-at="2018-02-02T17:42:12Z" finished-at="2018-02-02T17:42:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriver -->
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="registrationTest" duration-ms="118427" started-at="2018-02-02T17:42:37Z" finished-at="2018-02-02T17:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method status="PASS" signature="StopDriver(org.testng.ITestResult)[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="StopDriver" is-config="true" duration-ms="2898" started-at="2018-02-02T17:44:35Z" finished-at="2018-02-02T17:44:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registrationTest status=SUCCESS method=PublicWebsiteRegistrationTest.registrationTest()[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StopDriver -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="stopDriver" is-config="true" duration-ms="10" started-at="2018-02-02T17:44:38Z" finished-at="2018-02-02T17:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.twentyeighty.functional.PublicWebsiteRegistrationTest@1f554b06]" name="afterSuite" is-config="true" duration-ms="643" started-at="2018-02-02T17:44:38Z" finished-at="2018-02-02T17:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.twentyeighty.functional.PublicWebsiteRegistrationTest -->
+    </test> <!-- PublicWebSite -->
+  </suite> <!-- Twenty Eighty Project -->
+</testng-results>

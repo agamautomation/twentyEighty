@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<Twentyeighty>
+
+	<PublicWebsite>
+
+		<URL>http://scstage.pcdhc.com/</URL>
+		<firstname>Auto_test_</firstname>
+		<lastname>Auto_lastname</lastname>
+		<emailAddress>Auto_public_</emailAddress>
+		<company>ESI</company>
+		<phonenumber>1234567890</phonenumber>
+		<password>pass123</password>
+		<!-- <licensecode>Auto_license_</licensecode> -->
+
+
+
+	</PublicWebsite>
+
+	<SMIL>
+		<URL>http://devsmil.esi-intl.com</URL>
+		<licensecode>Auto_license_</licensecode>
+		<licenseowner>Auto_license_owner</licenseowner>
+		<totalseats>1</totalseats>
+		<startdate>1/1/2017</startdate>
+		<expirydate>12/31/2017</expirydate>
+		<invoicenumber>12345</invoicenumber>
+		<client>3123</client>
+		<ExpiredDate>2/1/2017</ExpiredDate>
+		<nototalseats>0</nototalseats>
+		>
+	</SMIL>
+
+	<Reseller>
+		<URL>http://newstagee-training.esi-intl.com/register/reseller/esi-europe.asp
+		</URL>
+
+		<Email>auto_res_</Email>
+		<password>pass123</password>
+		<nametitle>Mr</nametitle>
+		<fname>Autoname</fname>
+		<surname>surname</surname>
+		<companyname>ESI</companyname>
+		<username>autouser</username>
+		<lineAddress>lineaddress</lineAddress>
+		<lineAddress2>lineaddress2</lineAddress2>
+		<postalcode>12345</postalcode>
+		<city>testcity</city>
+		<phonenum>1234567890</phonenum>
+
+
+	</Reseller>
+
+	<learningportal>
+		<databasename>Emailservice</databasename>
+		<query>select Top 1 Body from Emails where StatusId = ? order by id desc</query>
+		<!-- <email>Enter your email</email> -->
+		<password>Password123!</password>
+		<!-- <password>Enter your password</password> -->
+	</learningportal>
+
+
+	<myesi>
+		<URL>http://newstagemyesi.esi-intl.com/</URL>
+	
+		<password>password</password>
+		<newemail>auto_myesi_</newemail>
+		<newpassword>pass123</newpassword>
+		<firstname>autoMyesi</firstname>
+		<lastname>autoMyesiLname</lastname>
+		<company>MYESI</company>
+		<databasename>MailService</databasename>
+		<query>select Top 5 Body from EsiEmailService where EmailSubject='MyESI Email Validation' and ToAddress = ? order by datecreated desc </query>
+	</myesi>
+	<stg>
+		<!-- data for Staging Enviornment -->
+	</stg>
+</Twentyeighty>
+

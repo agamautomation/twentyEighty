@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Generic_Framework]">
+  <parameter name="browserName" value="firefox"/>
+  <listeners>
+    <listener class-name="com.twentyeighty.core.ExtentReporterNG"/>
+  </listeners>
+  <test name="PublicWebSite(failed)">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.twentyeighty.functional.PublicWebsiteRegistrationTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="StopDriver"/>
+          <include name="registrationTest"/>
+          <include name="InitiateDriver"/>
+        </methods>
+      </class> <!-- com.twentyeighty.functional.PublicWebsiteRegistrationTest -->
+    </classes>
+  </test> <!-- PublicWebSite(failed) -->
+</suite> <!-- Failed suite [Generic_Framework] -->

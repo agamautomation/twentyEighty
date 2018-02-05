@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Generic_Framework]]">
+  <parameter name="baseUrl" value="http://www.google.com"/>
+  <parameter name="browserName" value="firefox"/>
+  <listeners>
+    <listener class-name="com.svam.core.ExtentReporterNG"/>
+  </listeners>
+  <test name="Generic_Framework_Use(failed)(failed)">
+    <parameter name="baseUrl" value="http://www.google.com"/>
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.svam.functional.HomePage">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="InitiateDriver"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.svam.functional.HomePage -->
+    </classes>
+  </test> <!-- Generic_Framework_Use(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Generic_Framework]] -->
