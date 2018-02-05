@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Twenty Eighty Project" thread-count="2">  <!-- parallel="tests" --> 
 
-	<test name="PublicWebSite">
+	<!-- <test name="PublicWebSite">
 		<parameter name="browserName" value="firefox" />
 		<classes>
-			<!-- <class name="com.twentyeighty.functional.SmilLicenseCreateTest" /> -->
+			<class name="com.twentyeighty.functional.SmilLicenseCreateTest" />
 			<class name="com.twentyeighty.functional.PublicWebsiteRegistrationTest" />
-			<!-- <class name="com.twentyeighty.functional.ApprovalFromCPC" />
+			<class name="com.twentyeighty.functional.ApprovalFromCPC" />
 			
 			<class name="com.twentyeighty.functional.LicenseInCPCTest" /> <class 
-				name="com.twentyeighty.functional.LearningPortalTest" /> -->
+				name="com.twentyeighty.functional.LearningPortalTest" />
 		</classes>
-	</test>
-	<!-- <test name="MyESINewRegistration">
+	</test> -->
+	<test name="MyESINewRegistration">
 		<parameter name="browserName" value="firefox" />
 		<classes>
 			<class name="com.twentyeighty.functional.MyESIRegistrationTest" />
 			<class name="com.twentyeighty.functional.ApprovalFromCPC" /> <class 
 				name="com.twentyeighty.functional.LearningPortalTest" />
 		</classes>
-	</test> -->
+	</test>
 	<!-- <test name="MyESISignIN"> <parameter name="browserName" value="firefox" 
 		/> <classes> <class name="com.twentyeighty.functional.MyESISignTest" /> <class 
 		name="com.twentyeighty.functional.ApprovalFromCPC" /> <class name="com.twentyeighty.functional.LearningPortalTest" 
